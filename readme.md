@@ -5,4 +5,4 @@ El siguiente repositorio tiene algunas funciones, metodos y bases de js y la lib
 
 **Selectores**
 
-Fuente oficial de jquey: https://www.w3schools.com/jquery/trysel.asp
+Fuente oficial de Jquery: https://www.w3schools.com/jquery/trysel.asp
